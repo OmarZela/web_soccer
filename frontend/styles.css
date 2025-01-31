@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#field {
+    width: 800px;
+    height: 600px;
+    background-image: url('soccer.png');
+    background-size: cover;
+    position: relative;
+    margin: 0 auto;
+}
+
+.player {
+    position: absolute;
+    color: white;
+    font-weight: bold;
+}
